@@ -19,8 +19,8 @@
   "devDependencies": {
     "assertthat": "0.8.0",
     "request": "2.74.0",
-    "roboter": "0.12.2",
-    "roboter-server": "0.12.2"
+    "roboter": "0.12.3",
+    "roboter-server": "0.12.3"
   },
   "repository": {
     "type": "git",
