@@ -1,0 +1,36 @@
+{
+  "name": "curl-for",
+  "version": "0.0.0",
+  "description": "curl-for creates CURL calls from HTTP requests.",
+  "contributors": [
+    {
+      "name": "Holger Rode",
+      "email": "holger.rode@hpe.com"
+    },
+    {
+      "name": "Golo Roden",
+      "email": "golo.roden@thenativeweb.io"
+    }
+  ],
+  "main": "lib/curlFor.js",
+  "dependencies": {
+    "shell-escape": "0.2.0"
+  },
+  "devDependencies": {
+    "assertthat": "0.8.0",
+    "request": "2.74.0",
+    "roboter": "0.12.2",
+    "roboter-server": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/holger-rode/curl-for.git"
+  },
+  "keywords": [
+    "curl",
+    "http",
+    "https",
+    "request"
+  ],
+  "license": "MIT"
+}
