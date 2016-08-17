@@ -23,7 +23,7 @@ const request = require('request');
 
 request({
   method: 'GET',
-  url: 'http://www.google.de'
+  url: 'http://www.example.com'
 }, (err, res) => {
   const curl = curlFor(res.request);
 
